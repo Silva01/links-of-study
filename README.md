@@ -5,12 +5,9 @@ Bem-vindo ao repositório de Links de Estudo! Este espaço foi criado para organ
 ## Índice
 
 1. [Recursos Base](#recursos-base)
-2. [Desenvolvimento Web](#desenvolvimento-web)
-3. [Inteligência Artificial](#inteligência-artificial)
-4. [Ciência de Dados](#ciência-de-dados)
-5. [DevOps](#devops)
-6. [Linguagens de Programação](#linguagens-de-programação)
-7. [Soft Skills](#soft-skills)
+2. [System Designer](#system-designer)
+3. [Courses](#courses)
+4. [System Design Guide](#system-design-guide)
 
 ## Recursos Base
 
@@ -20,28 +17,15 @@ Bem-vindo ao repositório de Links de Estudo! Este espaço foi criado para organ
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
 
-## Desenvolvimento Web
+## System Designer
+### Courses
+- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?aff=kJSIoU)
+- [System Design Interviews](https://www.tryexponent.com/courses/system-design-interviews?ref=techinterviewhandbook)
+- [Grokking the Advanced System Design Interview](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview?aff=kJSIoU)
+- [Byte Byte Go](https://bytebytego.com/?fpr=techinterviewhandbook)
 
-### Frontend
-
-### Backend
-
-## Inteligência Artificial
-
-## Ciência de Dados
-
-## DevOps
-
-## Linguagens de Programação
-
-### Python
-
-### JavaScript
-
-### Outros
-
-## Soft Skills
-
+### Guide
+- [System Design Guide](https://www.techinterviewhandbook.org/system-design/)
 ---
 
 Sinta-se à vontade para sugerir novos links através de pull requests ou issues. Vamos construir juntos uma base de conhecimento rica e diversificada!
