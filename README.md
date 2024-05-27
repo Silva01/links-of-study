@@ -7,7 +7,7 @@ Bem-vindo ao repositório de Links de Estudo! Este espaço foi criado para organ
 1. [Recursos Base](#recursos-base)
 2. [System Designer](#system-designer)
 3. [Courses](#courses)
-4. [System Design Guide](#system-design-guide)
+4. [System Design Guide](#guide)
 
 ## Recursos Base
 
