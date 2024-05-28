@@ -23,6 +23,7 @@ Bem-vindo ao repositório de Links de Estudo! Este espaço foi criado para organ
 - [System Design Interviews](https://www.tryexponent.com/courses/system-design-interviews?ref=techinterviewhandbook)
 - [Grokking the Advanced System Design Interview](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview?aff=kJSIoU)
 - [Byte Byte Go](https://bytebytego.com/?fpr=techinterviewhandbook)
+- [Gaurav Sen Youtube - System Design Playlist](https://www.youtube.com/watch?v=xpDnVSmNFX0)
 
 ### Guide
 - [System Design Guide](https://www.techinterviewhandbook.org/system-design/)
